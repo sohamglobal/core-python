@@ -1,0 +1,39 @@
+{
+  "firstName": "Praffull",
+  "lastName": "Global",
+  "isAlive": true,
+  "dateofbirth": "9 June",
+  "qualification": "MBA",
+  "experience_yrs": 13,
+  "office": "Soham Consultants",
+  "address": {
+    "streetAddress": "3rd floor,shivaji complex",
+    "city": "Amravati",
+    "state": "MH",
+    "postalCode": "444605"
+  },
+  "emailid": "praffull@live.com",
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "0721-123456"
+    },
+    {
+      "type": "office",
+      "number": "91-9890925745"
+    }
+  ],
+  "children": [
+      {
+      "type": "son",
+      "name": "soham"
+      },
+      {
+      "type": "daughter",
+      "name": "sharayu"
+      }
+
+  ],
+  "spouse": "shailaja"
+}
+
